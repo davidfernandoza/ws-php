@@ -1,0 +1,16 @@
+{
+    "name": "p9ac00296/test-ws",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Fernando Torres Zapata",
+            "email": "fernando-zapata@live.com"
+        }
+    ],
+    "require": {
+        "react/socket": "^1.6.0",
+        "ratchet/pawl": "^0.3.5",
+        "cboden/ratchet": "^0.4.3"
+    }
+}
